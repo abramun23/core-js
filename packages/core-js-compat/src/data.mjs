@@ -2336,8 +2336,6 @@ export const data = {
   },
   'esnext.observable.of': {
   },
-  // TODO: Remove from `core-js@4`
-  'esnext.promise.all-settled': null,
   'esnext.promise.try': {
     bun: '1.1.22',
     chrome: '128',
@@ -2813,7 +2811,6 @@ export const renamed = new Map([
   ['esnext.map.group-by', 'es.map.group-by'],
   ['esnext.object.has-own', 'es.object.has-own'],
   ['esnext.object.group-by', 'es.object.group-by'],
-  ['esnext.promise.all-settled', 'es.promise.all-settled'],
   ['esnext.promise.with-resolvers', 'es.promise.with-resolvers'],
   ['esnext.set.difference.v2', 'es.set.difference.v2'],
   ['esnext.set.intersection.v2', 'es.set.intersection.v2'],
