@@ -2142,8 +2142,6 @@ export const data = {
     deno: '1.37',
     firefox: '131',
   },
-  'esnext.iterator.indexed': {
-  },
   'esnext.iterator.map': {
     chrome: '122',
     deno: '1.37',
