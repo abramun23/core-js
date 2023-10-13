@@ -2152,12 +2152,6 @@ export const data = {
   },
   // TODO: Remove from `core-js@4`
   'esnext.object.group-by': null,
-  'esnext.observable.constructor': {
-  },
-  'esnext.observable.from': {
-  },
-  'esnext.observable.of': {
-  },
   'esnext.promise.try': {
     bun: '1.1.22',
     chrome: '128',
@@ -2247,8 +2241,6 @@ export const data = {
   },
   'esnext.symbol.metadata': {
     deno: '1.40.4',
-  },
-  'esnext.symbol.observable': {
   },
   'esnext.typed-array.filter-reject': {
   },
