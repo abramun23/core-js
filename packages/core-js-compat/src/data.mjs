@@ -2146,8 +2146,6 @@ export const data = {
   },
   'esnext.math.sum-precise': {
   },
-  'esnext.number.from-string': {
-  },
   'esnext.promise.try': {
     bun: '1.1.22',
     chrome: '128',
