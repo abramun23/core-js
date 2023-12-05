@@ -2138,8 +2138,6 @@ export const data = {
   },
   'esnext.math.scale': {
   },
-  'esnext.math.signbit': {
-  },
   'esnext.math.sum-precise': {
   },
   'esnext.promise.try': {
