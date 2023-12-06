@@ -2157,8 +2157,6 @@ export const data = {
   },
   'esnext.string.cooked': {
   },
-  'esnext.string.code-points': {
-  },
   'esnext.string.dedent': {
   },
   'esnext.symbol.async-dispose': {
