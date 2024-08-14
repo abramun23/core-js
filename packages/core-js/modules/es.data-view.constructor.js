@@ -1,4 +1,5 @@
 'use strict';
+/* eslint-disable sonar/inconsistent-function-call -- required for testing */
 var $ = require('../internals/export');
 var anInstance = require('../internals/an-instance');
 var setPrototypeOf = require('../internals/object-set-prototype-of-simple');
